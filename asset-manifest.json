@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/static/css/main.19d9ff33.css",
-    "main.js": "/static/js/main.a1442b46.js",
-    "index.html": "/index.html",
-    "main.19d9ff33.css.map": "/static/css/main.19d9ff33.css.map",
-    "main.a1442b46.js.map": "/static/js/main.a1442b46.js.map"
+    "main.css": "/freedom-countdown/static/css/main.19d9ff33.css",
+    "main.js": "/freedom-countdown/static/js/main.a1442b46.js",
+    "index.html": "/freedom-countdown/index.html",
+    "main.19d9ff33.css.map": "/freedom-countdown/static/css/main.19d9ff33.css.map",
+    "main.a1442b46.js.map": "/freedom-countdown/static/js/main.a1442b46.js.map"
   },
   "entrypoints": [
     "static/css/main.19d9ff33.css",
