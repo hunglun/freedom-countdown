@@ -1,0 +1,33 @@
+.app {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  font-family: Arial, sans-serif;
+}
+
+.countdown {
+  display: flex;
+  margin-bottom: 20px;
+}
+
+.time-unit {
+  margin: 0 10px;
+  text-align: center;
+}
+
+.time {
+  font-size: 36px;
+  font-weight: bold;
+  color: #3e98c7;
+}
+
+.unit {
+  font-size: 14px;
+  color: #888;
+}
+
+.progress-bar-container {
+  width: 150px;
+}
