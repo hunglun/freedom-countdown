@@ -1,6 +1,7 @@
 {
   "name": "freedom-countdown",
   "version": "1.0.0",
+  "homepage": "https://hunglun.github.io/freedom-countdown",
   "description": "",
   "keywords": [],
   "main": "src/index.js",
